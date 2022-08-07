@@ -1,3 +1,3 @@
 # GS
 
-Developed with Unreal Engine 4
+FPS rpg developed with Unreal Engine 4
